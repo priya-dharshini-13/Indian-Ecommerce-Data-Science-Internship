@@ -19,8 +19,6 @@ The project focuses on analyzing e-commerce customer and sales data using Python
 - Statsmodels
 - Jupyter Notebook
 
----
-
 ## Project Structure
 
 
@@ -33,7 +31,7 @@ Indian-Ecommerce-Data-Science-Internship/
 │
 ├── week2/
 │   ├── Week2_Visualization.ipynb
-│   ├── visualization images
+│   ├── visualization images/
 │   └── Week2 Task.docx
 │
 ├── week3/
@@ -45,9 +43,6 @@ Indian-Ecommerce-Data-Science-Internship/
 │   └── Week3 Task.docx
 │
 └── README.md
-
-
----
 
 # Week 1 - Data Cleaning, EDA and Analysis
 
