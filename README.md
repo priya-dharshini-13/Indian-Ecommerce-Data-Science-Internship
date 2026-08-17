@@ -19,30 +19,30 @@ The project focuses on analyzing e-commerce customer and sales data using Python
 - Statsmodels
 - Jupyter Notebook
 
+
+
+
 ## Project Structure
 
+- **week1/**
+  - `Week1_EDA.ipynb`
+  - `screenshots/`
+  - `Week1 Task.docx`
 
-Indian-Ecommerce-Data-Science-Internship/
-│
-├── week1/
-│   ├── Week1_EDA.ipynb
-│   ├── screenshots/
-│   └── Week1 Task.docx
-│
-├── week2/
-│   ├── Week2_Visualization.ipynb
-│   ├── visualization images/
-│   └── Week2 Task.docx
-│
-├── week3/
-│   ├── Week3_Hypothesis_Testing.ipynb
-│   ├── h1_upi_vs_cod.png
-│   ├── h2_order_status_payment.png
-│   ├── h3_tier_anova.png
-│   ├── h4_coupon_vs_no_coupon.png
-│   └── Week3 Task.docx
-│
-└── README.md
+- **week2/**
+  - `Week2_Visualization.ipynb`
+  - `visualization images/`
+  - `Week2 Task.docx`
+
+- **week3/**
+  - `Week3_Hypothesis_Testing.ipynb`
+  - `h1_upi_vs_cod.png`
+  - `h2_order_status_payment.png`
+  - `h3_tier_anova.png`
+  - `h4_coupon_vs_no_coupon.png`
+  - `Week3 Task.docx`
+
+- `README.md`
 
 # Week 1 - Data Cleaning, EDA and Analysis
 
